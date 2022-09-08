@@ -23,7 +23,7 @@ $ npm install -g oclif-hello-world
 $ oclif-hello-world COMMAND
 running command...
 $ oclif-hello-world (--version)
-oclif-hello-world/0.0.0 win32-x64 node-v16.14.2
+oclif-hello-world/0.1.0 win32-x64 node-v16.14.2
 $ oclif-hello-world --help [COMMAND]
 USAGE
   $ oclif-hello-world COMMAND
@@ -79,7 +79,7 @@ EXAMPLES
   hello friend from oclif! (./src/commands/hello/index.ts)
 ```
 
-_See code: [dist/commands/hello/index.ts](https://github.com/ngmikeng/oclif-hello-world/blob/v0.0.0/dist/commands/hello/index.ts)_
+_See code: [dist/commands/hello/index.ts](https://github.com/ngmikeng/oclif-hello-world/blob/v0.1.0/dist/commands/hello/index.ts)_
 
 ## `oclif-hello-world hello world`
 
