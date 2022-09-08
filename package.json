@@ -1,6 +1,6 @@
 {
   "name": "oclif-hello-world",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "oclif example Hello World CLI",
   "author": "Minh Nguyen",
   "bin": {
